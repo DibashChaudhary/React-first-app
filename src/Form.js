@@ -26,7 +26,7 @@ export const Form = () => {
         <div className="display">{str}</div>
         <br />
         <hr />
-        <input receiveData = {receiveData} />
+        <Input receiveData = {receiveData} />
         
     </div>
     )
